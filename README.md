@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello World, I'm Burak!</h1>
+<h3 align="center">A Dreamer of being best... </h3>
 
-
+- 🦝 I'm Computer Engineering student, 20 years old. 
+- ⚡ Working for my dream, its being **Game Developer**.
 - 🌱 I’m currently learning **C++, Unreal Engine, MySQL**
-
 - 📫 How to reach me **buluata35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
