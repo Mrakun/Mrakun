@@ -1,17 +1,17 @@
 <h1 align="center">Hello World, I am Burak</h1>
 <h3 align="center">A Dreamer of being best...</h3>
 
-- 🦝 I'm Computer Engineering student, 21 years old. [-](-)
+- 🦝 I'm Computer Engineering student, 21 years old.
 
 - 🌱 I’m currently learning **-**
 
-- ⚡ Working for my dreams... [-](-)
+- ⚡ Working for my dreams...
 
-- 🌱 I’m currently specializing on C++ [-](-)
+- 🌱 I’m currently specializing on C++
 
-- 📫 How to reach me buluata35@gmail.com **-**
+- 📫 How to reach me buluata35@gmail.com
 
-- 👨‍💻 My interests are Cyber Security and Game Developing **-**
+- 👨‍💻 My interests are Cyber Security and Game Developing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
