@@ -3,11 +3,9 @@
 
 - 🦝 I'm Computer Engineering student, 21 years old.
 
-- 🌱 I’m currently learning **-**
-
 - ⚡ Working for my dreams...
 
-- 🌱 I’m currently specializing on C++
+- 🌱 I’m specializing on C++
 
 - 📫 How to reach me buluata35@gmail.com
 
